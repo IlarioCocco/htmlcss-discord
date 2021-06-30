@@ -15,12 +15,14 @@
     clear: both;
 }
 
+body {
+    font-family: Rockwell;
+}
 
-
-/* tutto un insieme */
+/* tutto un insieme header */
 .container {
     margin-left: 15%;
-    margin-right: 15%;
+    margin-right: 0%;
 }
 
 
@@ -29,26 +31,21 @@
 }
 
 .col25{
-    width: 25%;
+    width: 20%;
     float: left;
 }
 
 .col50{
-    width: 50%;
+    width: 55%;
     float: left;
 }
-/* tutto un insieme */
+/* tutto un insieme header */
 
 
-
-
-
-
-/* classi dello stile */
+/* classi dello stile header */
 header {
     background-color: rgba(49,97,224,255);
-    margin-bottom: 20px;
-    height: 150px;
+    height: 60px;
     color: white;
 }
 
@@ -58,19 +55,35 @@ li {
     text-align: center;
     display: inline-block;
     list-style-type: none;
+    padding: 10px;
+    font-size: 80%;
 }
 
 .menu {
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 .logo-discord {
-    height: 30px;
-    color: white;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
-.bottoneAccedi{
-    padding-top: 30px;
+.buttonAccedi{
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 18px;
+    border: white;
+    margin-top: 20px;
+    height: 30px;
+    font-size: 70%;
 }
-/* classi dello stile */
+/* classi dello stile header*/
+
+
+
+
+.container2 {
+    background-image: url("../img/jumbo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 415px;
+}
