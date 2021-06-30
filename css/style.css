@@ -81,9 +81,32 @@ li {
 
 
 /* immagine di background principale */
-.container2 {
+.hero {
     background-image: url("../img/jumbo.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 415px;
+}
+
+.container2 {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.colonnaCentrale,
+.ilTuoPosto, 
+p {
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding-top: 45px;
+}
+
+p {
+    font-size: 82%;
+    line-height: 20px;
+}
+
+.ilTuoPosto {
+    font-size: 250%;
 }
