@@ -56,11 +56,12 @@ li {
     display: inline-block;
     list-style-type: none;
     padding: 10px;
-    font-size: 80%;
+    font-size: 90%;
 }
 
 .menu {
     padding-top: 20px;
+    margin-left: 30px;
 }
 
 .logo-discord {
@@ -79,8 +80,7 @@ li {
 /* classi dello stile header*/
 
 
-
-
+/* immagine di background principale */
 .container2 {
     background-image: url("../img/jumbo.png");
     background-repeat: no-repeat;
