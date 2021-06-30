@@ -110,3 +110,26 @@ p {
 .ilTuoPosto {
     font-size: 250%;
 }
+
+.buttonScarica {
+    padding: 20px;
+    border-radius: 22px;
+    margin-top: 20px;
+    margin-left: 70px;
+    height: 40px;
+    font-size: 90%;
+    padding: 5px 8px;
+    padding-left: 40px;
+}
+
+.buttonDiscord {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 20px;
+    border-radius: 22px;
+    margin-top: 20px;
+    height: 40px;
+    font-size: 90%;
+    padding: 5px 8px;
+}
+
