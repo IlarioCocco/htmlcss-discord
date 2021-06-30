@@ -15,15 +15,37 @@
     clear: both;
 }
 
-.logo-discord {
 
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+header {
+    background-color: rgba(49,97,224,255);
+    margin-bottom: 20px;
+    height: 150px;
+}
+
+
+.nav
+li {
+   display: inline-block; 
+}
+
+
+
+.logo-discord {
+    height: 30px;
+    vertical-align: middle;
 }
 
 .menu {
-
+    display: inline-block;
 }
 
 
 .bottoneAccedi{
-    
+
 }
