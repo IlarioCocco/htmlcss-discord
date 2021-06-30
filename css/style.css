@@ -17,8 +17,12 @@
 
 
 .container {
+    max-width: 100%;
+    height: 1000px;
     width: 100%;
     margin: auto;
+    background-image: url("../img/jumbo.png");
+    background-color: #cccccc;
 }
 
 
@@ -30,12 +34,13 @@ header {
 }
 
 
+.menu
 ul
 li {
-   display: inline-block;
-   list-style-type: none; 
+    text-align: center;
+    display: inline-block;
+    list-style-type: none;
 }
-
 
 
 .logo-discord {
@@ -43,6 +48,7 @@ li {
     vertical-align: middle;
     color: white;
     padding-top: 30px;
+    margin-left: 400px;
 }
 
 
