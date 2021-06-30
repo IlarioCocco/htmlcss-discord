@@ -8,3 +8,22 @@
 /* body {
     background-color: red
 } */
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.logo-discord {
+
+}
+
+.menu {
+
+}
+
+
+.bottoneAccedi{
+    
+}
