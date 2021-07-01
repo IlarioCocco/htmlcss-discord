@@ -279,16 +279,16 @@ h6 {
 .daPochi {
     margin-right: 70px;
     position: absolute;
-    top: 850px;
+    top: 300px;
     left: 560px;
     font-size: 36px;
 }
 
 
-.daiInizio {
+.daInizio {
     margin-right: 70px;
     position: absolute;
-    top: 1000px;
+    top: 500px;
     left: 560px;
 }
 
@@ -311,6 +311,10 @@ h6 {
 .tecnologia {
     margin-top: 180px;
     width: 1000px;
+}
+
+.videoAudio {
+    padding-top: 5px;
 }
 
 
