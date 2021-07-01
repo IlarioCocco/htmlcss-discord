@@ -314,9 +314,25 @@ h6 {
 }
 
 .videoAudio {
-    padding-top: 5px;
+    padding-top: 15px;
+}
+
+.buttonUltimo {
+    background-color: rgba(142,161,225,255);
+    color: white;
+    border: none;
+    text-align: cener;
+    margin-left: 220px;
+}
+
+.prontoPer{
+    margin-left: 150px;
 }
 
 
-
-
+footer {
+    background-color: rgba(35,39,42,255);
+    height: 400px;
+    color: white;
+    margin-top: 90px;
+}
