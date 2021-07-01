@@ -185,3 +185,45 @@ h6 {
     top: 300px;
     left: 560px;
 }
+
+
+/* ---------------------- */
+
+
+.container4 {
+    margin-left: 15%;
+    margin-right: 15%;
+    position: relative;
+}
+
+.colsx1 {
+    width: 55%;
+    float: right;
+}
+
+.coldx1 {
+    width: 60%;
+    float: left;
+}
+
+.mago {
+    height: 300px;
+    margin-top: 310px;
+    margin-right: 70px;
+}
+
+.doveTrovarsi {
+    margin-left: 70px;
+    position: absolute;
+    top: 310px;
+    left: 10px;
+    font-size: 36px;
+}
+
+
+.mettili {
+    margin-left: 70px;
+    position: absolute;
+    top: 550px;
+    left: 10px;
+}
