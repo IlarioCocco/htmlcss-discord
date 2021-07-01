@@ -188,7 +188,22 @@ h6 {
 
 
 /* ---------------------- */
+.bkg {
+    background-image: url("../img/wave.svg");
+    opacity: 8%;
+    height: 100px;
+    margin-left: 0%;
+    position: relative;
+    top: 300px;
+}
 
+.bkg2 {
+    width: 1400px; 
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    top: 100px;
+}
 
 .container4 {
     margin-left: 15%;
@@ -232,6 +247,23 @@ h6 {
 
 
 /* -------------------- */
+.bkg3 {
+    background-image: url("../img/stars.svg");
+    height: 100px;
+    margin-left: 0%;
+    position: relative;
+    top: 100px;
+    opacity: 100%;
+}
+
+.bkg4 {
+    width: 1400px; 
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 100px;
+}
+
 .container5 {
     margin-left: 15%;
     margin-right: 15%;
@@ -247,7 +279,7 @@ h6 {
 .daPochi {
     margin-right: 70px;
     position: absolute;
-    top: 300px;
+    top: 850px;
     left: 560px;
     font-size: 36px;
 }
@@ -256,7 +288,7 @@ h6 {
 .daiInizio {
     margin-right: 70px;
     position: absolute;
-    top: 400px;
+    top: 1000px;
     left: 560px;
 }
 
@@ -270,9 +302,17 @@ h6 {
 
 .tutti {
     max-width: 100%;
-    height: 800px;
-    width: 800px;
+    height: 400px;
+    width: 900px;
     margin-left: 0px;
-    margin-top: 90px;
+    margin-top: 20px;
 }
+
+.tecnologia {
+    margin-top: 180px;
+    width: 1000px;
+}
+
+
+
 
