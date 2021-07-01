@@ -101,15 +101,16 @@ li {
 
 .colonnaCentrale,
 .ilTuoPosto, 
-p {
+h6 {
     align-items: center;
     color: white;
     text-align: center;
     padding-top: 45px;
+    /* line-height: 20px; */
 }
 
-p {
-    font-size: 82%;
+h6 {
+    font-size: 75%;
     line-height: 20px;
 }
 
@@ -160,12 +161,26 @@ p {
 }
 
 .coldx {
-    width: 35%;
-    float: left;
+    width: 30%;
+    float: right;
 }
 
 .ranocchio {
-    height:20px;
-    position: absolute;
+    height: 300px;
+    margin-top: 50px;
+}
 
+.unLuogo {
+    margin-right: 60px;
+    position: absolute;
+    top: 70px;
+    left: 500px;
+}
+
+
+.unLuogo2 {
+    margin-right: 60px;
+    position: absolute;
+    top: 230px;
+    left: 500px;
 }
